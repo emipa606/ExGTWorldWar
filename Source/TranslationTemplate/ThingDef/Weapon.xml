@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: carbine bullet -->
+  <Bullet_300Carbine.label>carbine bullet</Bullet_300Carbine.label>
+  <!-- EN: 762BP -->
+  <Bullet_762BP.label>762BP</Bullet_762BP.label>
+  <!-- EN: 762BZ -->
+  <Bullet_762BZ.label>762BZ</Bullet_762BZ.label>
+  <!-- EN: 762HP -->
+  <Bullet_762HP.label>762HP</Bullet_762HP.label>
+  <!-- EN: AR bullet -->
+  <Bullet_IntermediateCartridge.label>AR bullet</Bullet_IntermediateCartridge.label>
+  <!-- EN: White phosphorus bomb -->
+  <MYDE_Bullet_WhitePhosphorus.label>White phosphorus bomb</MYDE_Bullet_WhitePhosphorus.label>
+  <!-- EN: flying -->
+  <PawnJumper_Dash.label>flying</PawnJumper_Dash.label>
+  <!-- EN: Springfield 1903 （bayonet） -->
+  <WW_1903B.label>Springfield 1903 （bayonet）</WW_1903B.label>
+  <!-- EN: An ancient pattern bolt-action rifle.This gun is equipped with a bayonet. -->
+  <WW_1903B.description>An ancient pattern bolt-action rifle.This gun is equipped with a bayonet.</WW_1903B.description>
+  <!-- EN: stock -->
+  <WW_1903B.tools.stock.label>stock</WW_1903B.tools.stock.label>
+  <!-- EN: bayonet -->
+  <WW_1903B.tools.bayonet.label>bayonet</WW_1903B.tools.bayonet.label>
+  <!-- EN: Springfield 1903 （bayonet） -->
+  <WW_1903B.verbs.Verb_Shoot.label>Springfield 1903 （bayonet）</WW_1903B.verbs.Verb_Shoot.label>
+  <!-- EN: Springfield 1903 Pederson -->
+  <WW_1903Pederson.label>Springfield 1903 Pederson</WW_1903Pederson.label>
+  <!-- EN: An ancient pattern bolt-action rifle.This gun can be converted to semi-automatic carbine for use. -->
+  <WW_1903Pederson.description>An ancient pattern bolt-action rifle.This gun can be converted to semi-automatic carbine for use.</WW_1903Pederson.description>
+  <!-- EN: Secondary Weapon -->
+  <WW_1903Pederson.comps.CompSecondaryVerb.description>Secondary Weapon</WW_1903Pederson.comps.CompSecondaryVerb.description>
+  <!-- EN: stock -->
+  <WW_1903Pederson.tools.stock.label>stock</WW_1903Pederson.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_1903Pederson.tools.barrel.label>barrel</WW_1903Pederson.tools.barrel.label>
+  <!-- EN: Springfield 1903 Pederson -->
+  <WW_1903Pederson.verbs.Verb_Shoot.label>Springfield 1903 Pederson</WW_1903Pederson.verbs.Verb_Shoot.label>
+  <!-- EN: Winchester “auto” -->
+  <WW_1907Auto.label>Winchester “auto”</WW_1907Auto.label>
+  <!-- EN: Transformed into a fully automatic Winchester rifle，Full auto. -->
+  <WW_1907Auto.description>Transformed into a fully automatic Winchester rifle，Full auto.</WW_1907Auto.description>
+  <!-- EN: stock -->
+  <WW_1907Auto.tools.stock.label>stock</WW_1907Auto.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_1907Auto.tools.barrel.label>barrel</WW_1907Auto.tools.barrel.label>
+  <!-- EN: Winchester “auto” -->
+  <WW_1907Auto.verbs.Verb_Shoot.label>Winchester “auto”</WW_1907Auto.verbs.Verb_Shoot.label>
+  <!-- EN: Winchester 1907 （bayonet） -->
+  <WW_1907B.label>Winchester 1907 （bayonet）</WW_1907B.label>
+  <!-- EN: An ancient semi-automatic rifle equipped with a bayonet. -->
+  <WW_1907B.description>An ancient semi-automatic rifle equipped with a bayonet.</WW_1907B.description>
+  <!-- EN: stock -->
+  <WW_1907B.tools.stock.label>stock</WW_1907B.tools.stock.label>
+  <!-- EN: bayonet -->
+  <WW_1907B.tools.bayonet.label>bayonet</WW_1907B.tools.bayonet.label>
+  <!-- EN: Winchester 1907 （bayonet） -->
+  <WW_1907B.verbs.Verb_Shoot.label>Winchester 1907 （bayonet）</WW_1907B.verbs.Verb_Shoot.label>
+  <!-- EN: Winchester “Iron Broom” -->
+  <WW_1907IronBroom.label>Winchester “Iron Broom”</WW_1907IronBroom.label>
+  <!-- EN: Transformed into a fully automatic Winchester rifle,Equipped with a large bullet drum -->
+  <WW_1907IronBroom.description>Transformed into a fully automatic Winchester rifle,Equipped with a large bullet drum</WW_1907IronBroom.description>
+  <!-- EN: stock -->
+  <WW_1907IronBroom.tools.stock.label>stock</WW_1907IronBroom.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_1907IronBroom.tools.barrel.label>barrel</WW_1907IronBroom.tools.barrel.label>
+  <!-- EN: Winchester “Iron Broom” -->
+  <WW_1907IronBroom.verbs.Verb_Shoot.label>Winchester “Iron Broom”</WW_1907IronBroom.verbs.Verb_Shoot.label>
+  <!-- EN: Winchester 1907 -->
+  <WW_1907Semi.label>Winchester 1907</WW_1907Semi.label>
+  <!-- EN: An ancient semi-automatic rifle. -->
+  <WW_1907Semi.description>An ancient semi-automatic rifle.</WW_1907Semi.description>
+  <!-- EN: Secondary Weapon -->
+  <WW_1907Semi.comps.CompSecondaryVerb.description>Secondary Weapon</WW_1907Semi.comps.CompSecondaryVerb.description>
+  <!-- EN: throw frag grenade -->
+  <WW_1907Semi.comps.CompSecondaryVerb.verbProps.label>throw frag grenade</WW_1907Semi.comps.CompSecondaryVerb.verbProps.label>
+  <!-- EN: stock -->
+  <WW_1907Semi.tools.stock.label>stock</WW_1907Semi.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_1907Semi.tools.barrel.label>barrel</WW_1907Semi.tools.barrel.label>
+  <!-- EN: Winchester 1907 -->
+  <WW_1907Semi.verbs.Verb_Shoot.label>Winchester 1907</WW_1907Semi.verbs.Verb_Shoot.label>
+  <!-- EN: Winchester “Sight” -->
+  <WW_1907Sight.label>Winchester “Sight”</WW_1907Sight.label>
+  <!-- EN: Transformed into a fully automatic Winchester rifle，equip with a sight. -->
+  <WW_1907Sight.description>Transformed into a fully automatic Winchester rifle，equip with a sight.</WW_1907Sight.description>
+  <!-- EN: stock -->
+  <WW_1907Sight.tools.stock.label>stock</WW_1907Sight.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_1907Sight.tools.barrel.label>barrel</WW_1907Sight.tools.barrel.label>
+  <!-- EN: Winchester “Sight” -->
+  <WW_1907Sight.verbs.Verb_Shoot.label>Winchester “Sight”</WW_1907Sight.verbs.Verb_Shoot.label>
+  <!-- EN: Auto5 -->
+  <WW_Auto5A.label>Auto5</WW_Auto5A.label>
+  <!-- EN: A reliable semi-automatic shotgun. -->
+  <WW_Auto5A.description>A reliable semi-automatic shotgun.</WW_Auto5A.description>
+  <!-- EN: stock -->
+  <WW_Auto5A.tools.stock.label>stock</WW_Auto5A.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_Auto5A.tools.barrel.label>barrel</WW_Auto5A.tools.barrel.label>
+  <!-- EN: Auto5 -->
+  <WW_Auto5A.verbs.Verb_Shoot.label>Auto5</WW_Auto5A.verbs.Verb_Shoot.label>
+  <!-- EN: Auto5（bayonet） -->
+  <WW_Auto5B.label>Auto5（bayonet）</WW_Auto5B.label>
+  <!-- EN: A reliable semi-automatic shotgun equipped with a bayonet. -->
+  <WW_Auto5B.description>A reliable semi-automatic shotgun equipped with a bayonet.</WW_Auto5B.description>
+  <!-- EN: stock -->
+  <WW_Auto5B.tools.stock.label>stock</WW_Auto5B.tools.stock.label>
+  <!-- EN: bayonet -->
+  <WW_Auto5B.tools.bayonet.label>bayonet</WW_Auto5B.tools.bayonet.label>
+  <!-- EN: Auto5（bayonet） -->
+  <WW_Auto5B.verbs.Verb_Shoot.label>Auto5（bayonet）</WW_Auto5B.verbs.Verb_Shoot.label>
+  <!-- EN: FaquarHill -->
+  <WW_FaquarHill.label>FaquarHill</WW_FaquarHill.label>
+  <!-- EN: An ancient semi-automatic rifle. -->
+  <WW_FaquarHill.description>An ancient semi-automatic rifle.</WW_FaquarHill.description>
+  <!-- EN: Secondary Weapon -->
+  <WW_FaquarHill.comps.CompSecondaryVerb.description>Secondary Weapon</WW_FaquarHill.comps.CompSecondaryVerb.description>
+  <!-- EN: throw frag grenade -->
+  <WW_FaquarHill.comps.CompSecondaryVerb.verbProps.label>throw frag grenade</WW_FaquarHill.comps.CompSecondaryVerb.verbProps.label>
+  <!-- EN: stock -->
+  <WW_FaquarHill.tools.stock.label>stock</WW_FaquarHill.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_FaquarHill.tools.barrel.label>barrel</WW_FaquarHill.tools.barrel.label>
+  <!-- EN: FaquarHill -->
+  <WW_FaquarHill.verbs.Verb_Shoot.label>FaquarHill</WW_FaquarHill.verbs.Verb_Shoot.label>
+  <!-- EN: Maxim Semi -->
+  <WW_MaximSemi.label>Maxim Semi</WW_MaximSemi.label>
+  <!-- EN: An ancient Maxim semi-automatic rifle. -->
+  <WW_MaximSemi.description>An ancient Maxim semi-automatic rifle.</WW_MaximSemi.description>
+  <!-- EN: Secondary Weapon -->
+  <WW_MaximSemi.comps.CompSecondaryVerb.description>Secondary Weapon</WW_MaximSemi.comps.CompSecondaryVerb.description>
+  <!-- EN: throw frag grenade -->
+  <WW_MaximSemi.comps.CompSecondaryVerb.verbProps.label>throw frag grenade</WW_MaximSemi.comps.CompSecondaryVerb.verbProps.label>
+  <!-- EN: stock -->
+  <WW_MaximSemi.tools.stock.label>stock</WW_MaximSemi.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_MaximSemi.tools.barrel.label>barrel</WW_MaximSemi.tools.barrel.label>
+  <!-- EN: Maxim Semi -->
+  <WW_MaximSemi.verbs.Verb_Shoot.label>Maxim Semi</WW_MaximSemi.verbs.Verb_Shoot.label>
+  <!-- EN: MG15 na -->
+  <WW_Mg15A.label>MG15 na</WW_Mg15A.label>
+  <!-- EN: A lightweight aircraft machine gun that can also be used by infantry. -->
+  <WW_Mg15A.description>A lightweight aircraft machine gun that can also be used by infantry.</WW_Mg15A.description>
+  <!-- EN: stock -->
+  <WW_Mg15A.tools.stock.label>stock</WW_Mg15A.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_Mg15A.tools.barrel.label>barrel</WW_Mg15A.tools.barrel.label>
+  <!-- EN: MG15 na -->
+  <WW_Mg15A.verbs.Verb_Shoot.label>MG15 na</WW_Mg15A.verbs.Verb_Shoot.label>
+  <!-- EN: experimental automatic rifle -->
+  <WW_Na4A.label>experimental automatic rifle</WW_Na4A.label>
+  <!-- EN: Experimental bullpup automatic rifle with light machine gun level firepower and relatively long range. -->
+  <WW_Na4A.description>Experimental bullpup automatic rifle with light machine gun level firepower and relatively long range.</WW_Na4A.description>
+  <!-- EN: stock -->
+  <WW_Na4A.tools.stock.label>stock</WW_Na4A.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_Na4A.tools.barrel.label>barrel</WW_Na4A.tools.barrel.label>
+  <!-- EN: experimental automatic rifle -->
+  <WW_Na4A.verbs.Verb_Shoot.label>experimental automatic rifle</WW_Na4A.verbs.Verb_Shoot.label>
+  <!-- EN: experimental Magnetic rifle -->
+  <WW_Na4M.label>experimental Magnetic rifle</WW_Na4M.label>
+  <!-- EN: An experimental rifle，Magnetic track is added to improve range, and white phosphorus smoke grenade can be launched. -->
+  <WW_Na4M.description>An experimental rifle，Magnetic track is added to improve range, and white phosphorus smoke grenade can be launched.</WW_Na4M.description>
+  <!-- EN: Secondary Weapon -->
+  <WW_Na4M.comps.CompSecondaryVerb.description>Secondary Weapon</WW_Na4M.comps.CompSecondaryVerb.description>
+  <!-- EN: stock -->
+  <WW_Na4M.tools.stock.label>stock</WW_Na4M.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_Na4M.tools.barrel.label>barrel</WW_Na4M.tools.barrel.label>
+  <!-- EN: experimental Magnetic rifle -->
+  <WW_Na4M.verbs.Verb_Shoot.label>experimental Magnetic rifle</WW_Na4M.verbs.Verb_Shoot.label>
+  <!-- EN: Perosa smg -->
+  <WW_Perosa.label>Perosa smg</WW_Perosa.label>
+  <!-- EN: The first experimental submachine gun, made up of two high-speed submachine guns, is extremely lethal at close range. -->
+  <WW_Perosa.description>The first experimental submachine gun, made up of two high-speed submachine guns, is extremely lethal at close range.</WW_Perosa.description>
+  <!-- EN: stock -->
+  <WW_Perosa.tools.stock.label>stock</WW_Perosa.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_Perosa.tools.barrel.label>barrel</WW_Perosa.tools.barrel.label>
+  <!-- EN: Perosa smg -->
+  <WW_Perosa.verbs.Verb_Shoot.label>Perosa smg</WW_Perosa.verbs.Verb_Shoot.label>
+  <!-- EN: RSC smg -->
+  <WW_RSC.label>RSC smg</WW_RSC.label>
+  <!-- EN: A submachine gun modified from a semi-automatic rifle, considered the ancestor of modern PDW. -->
+  <WW_RSC.description>A submachine gun modified from a semi-automatic rifle, considered the ancestor of modern PDW.</WW_RSC.description>
+  <!-- EN: stock -->
+  <WW_RSC.tools.stock.label>stock</WW_RSC.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_RSC.tools.barrel.label>barrel</WW_RSC.tools.barrel.label>
+  <!-- EN: RSC smg -->
+  <WW_RSC.verbs.Verb_Shoot.label>RSC smg</WW_RSC.verbs.Verb_Shoot.label>
+  <!-- EN: RSC M1917 （bayonet） -->
+  <WW_RSCB.label>RSC M1917 （bayonet）</WW_RSCB.label>
+  <!-- EN: An ancient semi-automatic rifle equipped with a bayonet. -->
+  <WW_RSCB.description>An ancient semi-automatic rifle equipped with a bayonet.</WW_RSCB.description>
+  <!-- EN: stock -->
+  <WW_RSCB.tools.stock.label>stock</WW_RSCB.tools.stock.label>
+  <!-- EN: bayonet -->
+  <WW_RSCB.tools.bayonet.label>bayonet</WW_RSCB.tools.bayonet.label>
+  <!-- EN: RSC M1917 （bayonet） -->
+  <WW_RSCB.verbs.Verb_Shoot.label>RSC M1917 （bayonet）</WW_RSCB.verbs.Verb_Shoot.label>
+  <!-- EN: RSC smg （Extended） -->
+  <WW_RSCH.label>RSC smg （Extended）</WW_RSCH.label>
+  <!-- EN: A submachine gun modified from a semi-automatic rifle, considered the ancestor of modern PDW.Extended magazine with 20 rounds. -->
+  <WW_RSCH.description>A submachine gun modified from a semi-automatic rifle, considered the ancestor of modern PDW.Extended magazine with 20 rounds.</WW_RSCH.description>
+  <!-- EN: stock -->
+  <WW_RSCH.tools.stock.label>stock</WW_RSCH.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_RSCH.tools.barrel.label>barrel</WW_RSCH.tools.barrel.label>
+  <!-- EN: RSC smg （Extended） -->
+  <WW_RSCH.verbs.Verb_Shoot.label>RSC smg （Extended）</WW_RSCH.verbs.Verb_Shoot.label>
+  <!-- EN: experimental carbine -->
+  <WW_Tkb.label>experimental carbine</WW_Tkb.label>
+  <!-- EN: An experimental carbine with a very special ammunition feeding mechanism, greatly reducing the length of the whole gun.Using HP bullets has good effects on biological targets, but poor effects on heavy targets -->
+  <WW_Tkb.description>An experimental carbine with a very special ammunition feeding mechanism, greatly reducing the length of the whole gun.Using HP bullets has good effects on biological targets, but poor effects on heavy targets</WW_Tkb.description>
+  <!-- EN: stock -->
+  <WW_Tkb.tools.stock.label>stock</WW_Tkb.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_Tkb.tools.barrel.label>barrel</WW_Tkb.tools.barrel.label>
+  <!-- EN: experimental carbine -->
+  <WW_Tkb.verbs.Verb_Shoot.label>experimental carbine</WW_Tkb.verbs.Verb_Shoot.label>
+  <!-- EN: experimental carbine（API） -->
+  <WW_TkbAPI.label>experimental carbine（API）</WW_TkbAPI.label>
+  <!-- EN: An experimental carbine with a very special ammunition feeding mechanism, greatly reducing the length of the whole gun.It use of armor piercing incendiary bullets is very effective against biological targets -->
+  <WW_TkbAPI.description>An experimental carbine with a very special ammunition feeding mechanism, greatly reducing the length of the whole gun.It use of armor piercing incendiary bullets is very effective against biological targets</WW_TkbAPI.description>
+  <!-- EN: stock -->
+  <WW_TkbAPI.tools.stock.label>stock</WW_TkbAPI.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_TkbAPI.tools.barrel.label>barrel</WW_TkbAPI.tools.barrel.label>
+  <!-- EN: experimental carbine（API） -->
+  <WW_TkbAPI.verbs.Verb_Shoot.label>experimental carbine（API）</WW_TkbAPI.verbs.Verb_Shoot.label>
+  <!-- EN: experimental Magnetic carbine -->
+  <WW_TkbM.label>experimental Magnetic carbine</WW_TkbM.label>
+  <!-- EN: An experimental carbine with a very special ammunition feeding mechanism, greatly reducing the length of the whole gun.Magnetic track is added to improve range, and white phosphorus smoke grenade can be launched. -->
+  <WW_TkbM.description>An experimental carbine with a very special ammunition feeding mechanism, greatly reducing the length of the whole gun.Magnetic track is added to improve range, and white phosphorus smoke grenade can be launched.</WW_TkbM.description>
+  <!-- EN: Secondary Weapon -->
+  <WW_TkbM.comps.CompSecondaryVerb.description>Secondary Weapon</WW_TkbM.comps.CompSecondaryVerb.description>
+  <!-- EN: stock -->
+  <WW_TkbM.tools.stock.label>stock</WW_TkbM.tools.stock.label>
+  <!-- EN: barrel -->
+  <WW_TkbM.tools.barrel.label>barrel</WW_TkbM.tools.barrel.label>
+  <!-- EN: experimental Magnetic carbine -->
+  <WW_TkbM.verbs.Verb_Shoot.label>experimental Magnetic carbine</WW_TkbM.verbs.Verb_Shoot.label>
+</LanguageData>

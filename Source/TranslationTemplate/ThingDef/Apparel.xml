@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: break through the soil -->
+  <MYDE_WW_TheDead_A.label>break through the soil</MYDE_WW_TheDead_A.label>
+  <!-- EN: break through the soil -->
+  <MYDE_WW_TheDead_B.label>break through the soil</MYDE_WW_TheDead_B.label>
+  <!-- EN: break through the soil -->
+  <MYDE_WW_TheDead_C.label>break through the soil</MYDE_WW_TheDead_C.label>
+  <!-- EN: break through the soil -->
+  <MYDE_WW_TheDead_D.label>break through the soil</MYDE_WW_TheDead_D.label>
+  <!-- EN: break through the soil -->
+  <MYDE_WW_TheDead_E.label>break through the soil</MYDE_WW_TheDead_E.label>
+  <!-- EN: Burned umbilical cord potion -->
+  <WW_BUCM.label>Burned umbilical cord potion</WW_BUCM.label>
+  <!-- EN: Expired drugs found in abandoned factories can cause the injected person to develop burnt umbilical cord like wrists, causing their brain to become confused and feel pain. However, their blood can also quickly block the wound. These wrists can help the injected person walk and even attack -->
+  <WW_BUCM.description>Expired drugs found in abandoned factories can cause the injected person to develop burnt umbilical cord like wrists, causing their brain to become confused and feel pain. However, their blood can also quickly block the wound. These wrists can help the injected person walk and even attack</WW_BUCM.description>
+  <!-- EN: War Uniform -->
+  <WW_Uniform.label>War Uniform</WW_Uniform.label>
+  <!-- EN: A sturdy lined uniform -->
+  <WW_Uniform.description>A sturdy lined uniform</WW_Uniform.description>
+</LanguageData>

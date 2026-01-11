@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Adrenaline excitation -->
+  <AdrenalineExcitation.label>Adrenaline excitation</AdrenalineExcitation.label>
+  <!-- EN: The adrenaline injected excites the nerves, increases blood pressure, and quickly restores consciousness. This effect will last for about a day, but after the excitement effect, the injected person will enter a state of exhaustion. -->
+  <AdrenalineExcitation.description>The adrenaline injected excites the nerves, increases blood pressure, and quickly restores consciousness. This effect will last for about a day, but after the excitement effect, the injected person will enter a state of exhaustion.</AdrenalineExcitation.description>
+  <!-- EN: Adrenaline excitation -->
+  <AdrenalineExcitation.labelNoun>Adrenaline excitation</AdrenalineExcitation.labelNoun>
+  <!-- EN: Exhaustion syndrome -->
+  <AdrenalineExcitation.stages.Exhaustion_syndrome.label>Exhaustion syndrome</AdrenalineExcitation.stages.Exhaustion_syndrome.label>
+  <!-- EN: Adrenaline excitation -->
+  <AdrenalineExcitation.stages.Adrenaline_excitation.label>Adrenaline excitation</AdrenalineExcitation.stages.Adrenaline_excitation.label>
+</LanguageData>

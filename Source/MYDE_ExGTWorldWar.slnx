@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="DwarfGekko_PathForCE/DwarfGekko_PathForCE.csproj" Type="b1082a25-a986-4312-8f16-9f47982a06dd" />
+  <Project Path="MYDE_ExGTWorldWar/MYDE_ExGTWorldWar.csproj" Type="1cac87a3-745e-44f2-87cc-6a7b265cea14" />
+  <Project Path="WeaponUtilityIII/WeaponUtilityIII.csproj" Type="b1082a25-a986-4312-8f16-9f47982a06dc" />
+</Solution>

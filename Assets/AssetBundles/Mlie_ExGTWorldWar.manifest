@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 1432144517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 384121414df0f20de428d5879d982caa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 384121414df0f20de428d5879d982caa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Thin_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Fat_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_MaximSemi.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_1907Semi.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Smokex.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadMale_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_1903B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Sppers_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadFemale_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_FaquarHill.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Mg15.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Tkb.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDead_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Smoke.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Sentinel_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Na4M.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/BUCM/BUCM_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Rifle.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Na4.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_1903B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Bolt.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadThin_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Tend_A.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Grenade.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_1903Pederson.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Auto5B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Hulk_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDead_FA_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Firebat_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TrenchRaider_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Mg15.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_RSCB.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/AR.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadThin_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Spawn_B.png
+- Assets/Data/Mlie.ExGTWorldWar/Sounds/Weapon/TF_shoot3.ogg
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Charge_B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_1907Sight.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Tkb.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_TkbM.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Fat_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadFemale_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadFemale_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_1907Auto.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_1907Auto.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_RSCH.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Wex.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_75mm.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Perosa.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDead_FA_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_1907B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Perosa.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Sppers_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Firebat_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Sentinel_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_1907IronBroom.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/BUCM/BUCM_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadMale_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_1907IronBroom.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadHulk_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_TkbAPI.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_RSCH.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_SaintChamond_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Fat_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Spawn_A.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Female_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/BUCM/BUCM_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDead_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Auto5.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_Na4.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_MaximSemi.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Charge_A.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Firebat_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Tend_B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TrenchRaider_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Sounds/Weapon/TF_shoot1.ogg
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_RSC.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Medic/WW_Adrenaline/WW_Adrenaline_a.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_RSCB.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Thin_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_SentinelHeavy_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TrenchRaider_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_1903Pederson.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_TkbAPI.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Sppers_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_SentinelHeavy_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadMale_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_BUCM.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_FaquarHill.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/WW_TrenchPhone.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadHulk_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Female_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_SaintChamond_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_TkbM.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Auto5.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Hulk_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDead_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_1907B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Na4M.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_Sentinel_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Female_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Medic/WW_Adrenaline/WW_Adrenaline_c.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDead_FA_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Auto5B.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadHulk_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_SentinelHeavy_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/old/WW_1907Semi.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_SaintChamond_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_None.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/UI/Carbine.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Male_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_1907Sight.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_Wex.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Male_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Pawn/WW_TheDeadThin_north.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Male_south.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Hulk_east.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Weapons/WW_RSC.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Medic/WW_Adrenaline/WW_Adrenaline_b.png
+- Assets/Data/Mlie.ExGTWorldWar/Textures/Apparel/WW_Uniform_Thin_east.png
+Dependencies: []

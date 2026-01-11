@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: The Dead conductor -->
+  <WW_TheDead.label>The Dead conductor</WW_TheDead.label>
+  <!-- EN: The dead soldier, wearing slightly rusted bulletproof armor, looked at from the face under the skull mask. She died young. -->
+  <WW_TheDead.description>The dead soldier, wearing slightly rusted bulletproof armor, looked at from the face under the skull mask. She died young.</WW_TheDead.description>
+  <!-- EN: left fist -->
+  <WW_TheDead.tools.left_fist-0.label>left fist</WW_TheDead.tools.left_fist-0.label>
+  <!-- EN: right fist -->
+  <WW_TheDead.tools.right_fist-0.label>right fist</WW_TheDead.tools.right_fist-0.label>
+  <!-- EN: teeth -->
+  <WW_TheDead.tools.teeth-0.label>teeth</WW_TheDead.tools.teeth-0.label>
+  <!-- EN: head -->
+  <WW_TheDead.tools.head-0.label>head</WW_TheDead.tools.head-0.label>
+  <!-- EN: left fist -->
+  <WW_TheDead.tools.left_fist-1.label>left fist</WW_TheDead.tools.left_fist-1.label>
+  <!-- EN: right fist -->
+  <WW_TheDead.tools.right_fist-1.label>right fist</WW_TheDead.tools.right_fist-1.label>
+  <!-- EN: teeth -->
+  <WW_TheDead.tools.teeth-1.label>teeth</WW_TheDead.tools.teeth-1.label>
+  <!-- EN: head -->
+  <WW_TheDead.tools.head-1.label>head</WW_TheDead.tools.head-1.label>
+  <!-- EN: The Dead soldier -->
+  <WW_TheDeadFemale.label>The Dead soldier</WW_TheDeadFemale.label>
+  <!-- EN: The dead soldier,Wearing slightly damaged military uniforms. -->
+  <WW_TheDeadFemale.description>The dead soldier,Wearing slightly damaged military uniforms.</WW_TheDeadFemale.description>
+  <!-- EN: left fist -->
+  <WW_TheDeadFemale.tools.left_fist-0.label>left fist</WW_TheDeadFemale.tools.left_fist-0.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadFemale.tools.right_fist-0.label>right fist</WW_TheDeadFemale.tools.right_fist-0.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadFemale.tools.teeth-0.label>teeth</WW_TheDeadFemale.tools.teeth-0.label>
+  <!-- EN: head -->
+  <WW_TheDeadFemale.tools.head-0.label>head</WW_TheDeadFemale.tools.head-0.label>
+  <!-- EN: left fist -->
+  <WW_TheDeadFemale.tools.left_fist-1.label>left fist</WW_TheDeadFemale.tools.left_fist-1.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadFemale.tools.right_fist-1.label>right fist</WW_TheDeadFemale.tools.right_fist-1.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadFemale.tools.teeth-1.label>teeth</WW_TheDeadFemale.tools.teeth-1.label>
+  <!-- EN: head -->
+  <WW_TheDeadFemale.tools.head-1.label>head</WW_TheDeadFemale.tools.head-1.label>
+  <!-- EN: The Dead soldier -->
+  <WW_TheDeadHulk.label>The Dead soldier</WW_TheDeadHulk.label>
+  <!-- EN: The dead soldier,Wearing slightly damaged military uniforms.Looks like an officer. -->
+  <WW_TheDeadHulk.description>The dead soldier,Wearing slightly damaged military uniforms.Looks like an officer.</WW_TheDeadHulk.description>
+  <!-- EN: left fist -->
+  <WW_TheDeadHulk.tools.left_fist-0.label>left fist</WW_TheDeadHulk.tools.left_fist-0.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadHulk.tools.right_fist-0.label>right fist</WW_TheDeadHulk.tools.right_fist-0.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadHulk.tools.teeth-0.label>teeth</WW_TheDeadHulk.tools.teeth-0.label>
+  <!-- EN: head -->
+  <WW_TheDeadHulk.tools.head-0.label>head</WW_TheDeadHulk.tools.head-0.label>
+  <!-- EN: left fist -->
+  <WW_TheDeadHulk.tools.left_fist-1.label>left fist</WW_TheDeadHulk.tools.left_fist-1.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadHulk.tools.right_fist-1.label>right fist</WW_TheDeadHulk.tools.right_fist-1.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadHulk.tools.teeth-1.label>teeth</WW_TheDeadHulk.tools.teeth-1.label>
+  <!-- EN: head -->
+  <WW_TheDeadHulk.tools.head-1.label>head</WW_TheDeadHulk.tools.head-1.label>
+  <!-- EN: The Dead soldier -->
+  <WW_TheDeadMale.label>The Dead soldier</WW_TheDeadMale.label>
+  <!-- EN: The dead soldier,Wearing chest armor. -->
+  <WW_TheDeadMale.description>The dead soldier,Wearing chest armor.</WW_TheDeadMale.description>
+  <!-- EN: left fist -->
+  <WW_TheDeadMale.tools.left_fist-0.label>left fist</WW_TheDeadMale.tools.left_fist-0.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadMale.tools.right_fist-0.label>right fist</WW_TheDeadMale.tools.right_fist-0.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadMale.tools.teeth-0.label>teeth</WW_TheDeadMale.tools.teeth-0.label>
+  <!-- EN: head -->
+  <WW_TheDeadMale.tools.head-0.label>head</WW_TheDeadMale.tools.head-0.label>
+  <!-- EN: left fist -->
+  <WW_TheDeadMale.tools.left_fist-1.label>left fist</WW_TheDeadMale.tools.left_fist-1.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadMale.tools.right_fist-1.label>right fist</WW_TheDeadMale.tools.right_fist-1.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadMale.tools.teeth-1.label>teeth</WW_TheDeadMale.tools.teeth-1.label>
+  <!-- EN: head -->
+  <WW_TheDeadMale.tools.head-1.label>head</WW_TheDeadMale.tools.head-1.label>
+  <!-- EN: The Dead soldier -->
+  <WW_TheDeadThin.label>The Dead soldier</WW_TheDeadThin.label>
+  <!-- EN: The dead soldier,Wearing slightly damaged military uniforms. -->
+  <WW_TheDeadThin.description>The dead soldier,Wearing slightly damaged military uniforms.</WW_TheDeadThin.description>
+  <!-- EN: left fist -->
+  <WW_TheDeadThin.tools.left_fist-0.label>left fist</WW_TheDeadThin.tools.left_fist-0.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadThin.tools.right_fist-0.label>right fist</WW_TheDeadThin.tools.right_fist-0.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadThin.tools.teeth-0.label>teeth</WW_TheDeadThin.tools.teeth-0.label>
+  <!-- EN: head -->
+  <WW_TheDeadThin.tools.head-0.label>head</WW_TheDeadThin.tools.head-0.label>
+  <!-- EN: left fist -->
+  <WW_TheDeadThin.tools.left_fist-1.label>left fist</WW_TheDeadThin.tools.left_fist-1.label>
+  <!-- EN: right fist -->
+  <WW_TheDeadThin.tools.right_fist-1.label>right fist</WW_TheDeadThin.tools.right_fist-1.label>
+  <!-- EN: teeth -->
+  <WW_TheDeadThin.tools.teeth-1.label>teeth</WW_TheDeadThin.tools.teeth-1.label>
+  <!-- EN: head -->
+  <WW_TheDeadThin.tools.head-1.label>head</WW_TheDeadThin.tools.head-1.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Firebat -->
+  <WW_Firebat.label>Firebat</WW_Firebat.label>
+  <!-- EN: SaintChamond -->
+  <WW_SaintChamond.label>SaintChamond</WW_SaintChamond.label>
+  <!-- EN: Sentinel -->
+  <WW_Sentinel.label>Sentinel</WW_Sentinel.label>
+  <!-- EN: Heavy Sentinel -->
+  <WW_SentinelHeavy.label>Heavy Sentinel</WW_SentinelHeavy.label>
+  <!-- EN: Sppers -->
+  <WW_Sppers.label>Sppers</WW_Sppers.label>
+  <!-- EN: Trench Raider -->
+  <WW_TrenchRaider.label>Trench Raider</WW_TrenchRaider.label>
+</LanguageData>

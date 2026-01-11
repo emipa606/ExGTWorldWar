@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1cac87a3-745e-44f2-87cc-6a7b265cea14}") = "MYDE_ExGTWorldWar", "MYDE_ExGTWorldWar\MYDE_ExGTWorldWar.csproj", "{a37fc43d-5166-4b7d-931e-a6cec32fcfc0]}"
+EndProject
+Project("{b1082a25-a986-4312-8f16-9f47982a06dc}") = "WeaponUtilityIII", "WeaponUtilityIII\WeaponUtilityIII.csproj", "{9919567d-3759-4eb3-bbd5-abea907428c4]}"
+EndProject
+Project("{b1082a25-a986-4312-8f16-9f47982a06dd}") = "DwarfGekko_PathForCE", "DwarfGekko_PathForCE\DwarfGekko_PathForCE.csproj", "{9919567d-3759-4eb3-bbd5-abea907428c5]}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{a37fc43d-5166-4b7d-931e-a6cec32fcfc0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a37fc43d-5166-4b7d-931e-a6cec32fcfc0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a37fc43d-5166-4b7d-931e-a6cec32fcfc0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{a37fc43d-5166-4b7d-931e-a6cec32fcfc0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6f77a58a-04bd-4a38-a0a8-a751bc891b6c}
+	EndGlobalSection
+EndGlobal

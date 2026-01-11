@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: rocket -->
+  <Bullet_75mmCannon.label>rocket</Bullet_75mmCannon.label>
+  <!-- EN: 75mm Cannon -->
+  <SevenFivemmCannon.label>75mm Cannon</SevenFivemmCannon.label>
+  <!-- EN: 75mm Cannon -->
+  <SevenFivemmCannon.description>75mm Cannon</SevenFivemmCannon.description>
+  <!-- EN: 75mm Cannon -->
+  <SevenFivemmCannon.verbs.Verb_Shoot.label>75mm Cannon</SevenFivemmCannon.verbs.Verb_Shoot.label>
+  <!-- EN: 7.62MG -->
+  <SevenSixTwoMG.label>7.62MG</SevenSixTwoMG.label>
+  <!-- EN: 7.62mm machine gun -->
+  <SevenSixTwoMG.description>7.62mm machine gun</SevenSixTwoMG.description>
+  <!-- EN: 7.62MG -->
+  <SevenSixTwoMG.verbs.Verb_Shoot.label>7.62MG</SevenSixTwoMG.verbs.Verb_Shoot.label>
+  <!-- EN: Wex -->
+  <WW_Wex.label>Wex</WW_Wex.label>
+  <!-- EN: A burst-oriented flamethrower. -->
+  <WW_Wex.description>A burst-oriented flamethrower.</WW_Wex.description>
+  <!-- EN: barrel -->
+  <WW_Wex.tools.barrel.label>barrel</WW_Wex.tools.barrel.label>
+  <!-- EN: Wex -->
+  <WW_Wex.verbs.Verb_SpewFire.label>Wex</WW_Wex.verbs.Verb_SpewFire.label>
+</LanguageData>

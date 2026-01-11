@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: flame -->
+  <MYDE_Damage_WhitePhosphorus.label>flame</MYDE_Damage_WhitePhosphorus.label>
+  <!-- EN: {0} has burned to death. -->
+  <MYDE_Damage_WhitePhosphorus.deathMessage>{0} has burned to death.</MYDE_Damage_WhitePhosphorus.deathMessage>
+</LanguageData>
