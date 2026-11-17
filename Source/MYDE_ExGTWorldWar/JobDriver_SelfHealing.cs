@@ -7,9 +7,9 @@ namespace MYDE_ExGTWorldWar;
 
 public class JobDriver_SelfHealing : JobDriver
 {
-    public readonly int FleckTickMax = 60;
-    public readonly float HealNum = 5f;
-    public int FleckTick;
+    private readonly int FleckTickMax = 60;
+    private readonly float HealNum = 5f;
+    private int FleckTick;
 
     public override bool TryMakePreToilReservations(bool errorOnFailed)
     {

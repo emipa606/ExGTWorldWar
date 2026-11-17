@@ -8,7 +8,7 @@ using Verse;
 namespace MYDE_ExGTWorldWar;
 
 [HarmonyPatch]
-internal class FloatMenuOptionProvider_GetOptions
+internal static class FloatMenuOptionProvider_GetOptions
 {
     private static readonly PropertyInfo MechanoidCanDoInfo =
         AccessTools.Property(typeof(FloatMenuOptionProvider), "MechanoidCanDo");

@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>d484b190-abdf-4a41-9a86-421c3ea23c8e</ID>
   <ModName>ExGT WorldWar (Continued)</ModName>
-  <Version>1.6.0</Version>
+  <Version>1.7.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-

@@ -5,8 +5,8 @@ namespace MYDE_ExGTWorldWar;
 
 public class HediffComp_WhitePhosphorus : HediffComp
 {
-    public readonly int TickMax = 60;
-    public int Tick;
+    private readonly int TickMax = 60;
+    private int Tick;
 
     public CompProperties_WhitePhosphorus Props => (CompProperties_WhitePhosphorus)props;
 

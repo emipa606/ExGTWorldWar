@@ -4,9 +4,9 @@ using Verse;
 namespace MYDE_ExGTWorldWar;
 
 [HarmonyPatch(typeof(DamageWorker_Extinguish), "Apply")]
-internal class MYDE_Harmony_ExGTWorldWar_DamageWorker_Extinguish
+internal static class MYDE_Harmony_ExGTWorldWar_DamageWorker_Extinguish
 {
-    private static void Postfix(Thing victim)
+    public static void Postfix(Thing victim)
     {
         if (victim is not Pawn pawn)
         {

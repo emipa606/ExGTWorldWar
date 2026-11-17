@@ -51,7 +51,7 @@ internal class CompSecondaryVerb : ThingComp
             yield return gizmo;
         }
 
-        if (parent is not Pawn { IsPlayerControlled: true } pawn)
+        if (parent is not Pawn { IsPlayerControlled: true })
         {
             yield break;
         }

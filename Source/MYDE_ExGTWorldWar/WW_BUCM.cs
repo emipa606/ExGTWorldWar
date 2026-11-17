@@ -16,26 +16,26 @@ public class WW_BUCM : Apparel
         MYDE_ThingDefOf.MYDE_WW_TheDead_E
     ];
 
-    public readonly int GiveHediffTickMax = 3600;
+    private readonly int GiveHediffTickMax = 3600;
 
-    public readonly int Spawn_CDTickMax = 300000;
+    private readonly int Spawn_CDTickMax = 300000;
 
-    public readonly int Tend_CDTickMax = 60000;
-    public int GiveHediffTick;
+    private readonly int Tend_CDTickMax = 60000;
+    private int GiveHediffTick;
 
     public List<Pawn> ListFivePawn = [];
 
-    public int Spawn_CDTick;
+    private int Spawn_CDTick;
 
-    public string Spawn_Icon;
+    private string Spawn_Icon;
 
-    public string Spawn_Label;
+    private string Spawn_Label;
 
-    public int Tend_CDTick;
+    private int Tend_CDTick;
 
-    public string Tend_Icon;
+    private string Tend_Icon;
 
-    public string Tend_Label;
+    private string Tend_Label;
 
     public override void ExposeData()
     {

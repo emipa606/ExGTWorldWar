@@ -9,7 +9,7 @@ public class Comp_GiveDashGizmos_Equipment : CompEquippable
 
     public CompProperties_GiveDashGizmos_Equipment Props => (CompProperties_GiveDashGizmos_Equipment)props;
 
-    public Ability AbilityForReading => ability;
+    private Ability AbilityForReading => ability;
 
     public override void Initialize(CompProperties props)
     {
@@ -35,9 +35,9 @@ public class Comp_GiveDashGizmos_Equipment : CompEquippable
         pawn.abilities?.Notify_TemporaryAbilitiesChanged();
     }
 
-    public override void Notify_Unequipped(Pawn pawn)
+    public override void Notify_Unequipped(Pawn p)
     {
-        pawn?.abilities?.Notify_TemporaryAbilitiesChanged();
+        p?.abilities?.Notify_TemporaryAbilitiesChanged();
     }
 
     public override void PostExposeData()

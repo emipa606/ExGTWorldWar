@@ -5,7 +5,7 @@ using Verse;
 namespace MYDE_ExGTWorldWar;
 
 [StaticConstructorOnStartup]
-public class MYDE_ExGTWorldWar_Patch
+public static class MYDE_ExGTWorldWar_Patch
 {
     static MYDE_ExGTWorldWar_Patch()
     {

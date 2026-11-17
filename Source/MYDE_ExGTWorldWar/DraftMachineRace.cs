@@ -9,12 +9,11 @@ namespace MYDE_ExGTWorldWar;
 
 public class DraftMachineRace : Pawn
 {
-    public readonly int Check_DownTickMax = 1200;
+    private readonly int CheckLordTickMax = 18000;
+    private readonly int Check_DownTickMax = 1200;
 
-    public readonly int CheckLordTickMax = 18000;
-    public int Check_DownTick;
-
-    public int CheckLordTick;
+    private int CheckLordTick;
+    private int Check_DownTick;
     public Pawn FollowPawn;
 
     public override void SpawnSetup(Map map, bool respawningAfterLoad)

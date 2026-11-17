@@ -8,4 +8,23 @@
   <Project Path="DwarfGekko_PathForCE/DwarfGekko_PathForCE.csproj" Type="b1082a25-a986-4312-8f16-9f47982a06dd" />
   <Project Path="MYDE_ExGTWorldWar/MYDE_ExGTWorldWar.csproj" Type="1cac87a3-745e-44f2-87cc-6a7b265cea14" />
   <Project Path="WeaponUtilityIII/WeaponUtilityIII.csproj" Type="b1082a25-a986-4312-8f16-9f47982a06dc" />
+  <Folder Name="/XML/1.7/Defs/">
+    <File Path="../1.7/Defs/Apparel.xml" />
+    <File Path="../1.7/Defs/Bodies_TheDead.xml" />
+    <File Path="../1.7/Defs/Job.xml" />
+    <File Path="../1.7/Defs/Race_Dead_Mechanoids.xml" />
+    <File Path="../1.7/Defs/Sounds.xml" />
+    <File Path="../1.7/Defs/Weapon.xml" />
+    <File Path="../1.7/Defs/WW_Adrenaline.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Patches/">
+    <File Path="../1.7/Patches/Defs.xml" />
+    <File Path="../1.7/Patches/Human1.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/String.xml" />
+  </Folder>
 </Solution>

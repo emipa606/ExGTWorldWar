@@ -19,7 +19,7 @@ public class PawnDasher : Thing, IThingHolder
 
     private Effecter flightEffecter;
 
-    protected EffecterDef flightEffecterDef;
+    private EffecterDef flightEffecterDef;
 
     private Vector3 groundPos;
     private ThingOwner<Thing> innerContainer;
@@ -32,9 +32,9 @@ public class PawnDasher : Thing, IThingHolder
 
     private int positionLastComputedTick = -1;
 
-    protected SoundDef soundLanding;
+    private SoundDef soundLanding;
 
-    protected Vector3 startVec;
+    private Vector3 startVec;
 
     private LocalTargetInfo target;
 
@@ -42,21 +42,21 @@ public class PawnDasher : Thing, IThingHolder
 
     protected int ticksFlying;
 
-    public Dictionary<FleckDef, int> trails = new Dictionary<FleckDef, int>();
+    public Dictionary<FleckDef, int> trails = new();
 
     private AbilityDef triggeringAbility;
 
-    public PawnDasher()
+    protected PawnDasher()
     {
         innerContainer = new ThingOwner<Thing>(this);
     }
 
-    public virtual Thing FlyingThing =>
+    protected virtual Thing FlyingThing =>
         innerContainer.InnerListForReading.Count <= 0 ? null : innerContainer.InnerListForReading[0];
 
-    public virtual Pawn FlyingPawn => FlyingThing as Pawn;
+    protected virtual Pawn FlyingPawn => FlyingThing as Pawn;
 
-    public virtual Thing CarriedThing => carriedThing;
+    protected virtual Thing CarriedThing => carriedThing;
 
     public override Vector3 DrawPos
     {
@@ -67,7 +67,7 @@ public class PawnDasher : Thing, IThingHolder
         }
     }
 
-    public Vector3 DestinationPos
+    private Vector3 DestinationPos
     {
         get
         {
@@ -221,7 +221,7 @@ public class PawnDasher : Thing, IThingHolder
         pawnDasher.flightDistance = pawn.Position.DistanceTo(destCell);
         pawnDasher.destCell = destCell;
         pawn.rotationTracker.FaceCell(destCell);
-        var rotation = pawn.Rotation = pawn.Rotation;
+        var rotation = pawn.Rotation;
         pawnDasher.Rotation = rotation;
         pawnDasher.pawnWasDrafted = pawn.Drafted;
         pawnDasher.flightEffecterDef = flightEffecterDef;

@@ -6,13 +6,13 @@ namespace MYDE_ExGTWorldWar;
 
 public class LordJob_FollowPawn : LordJob
 {
-    public Pawn escortee;
+    private Pawn escortee;
 
     private Faction escorteeFaction;
 
-    public string leavingDangerMessage;
+    private string leavingDangerMessage;
 
-    public Thing shuttle;
+    private Thing shuttle;
 
     public LordJob_FollowPawn()
     {

@@ -6,9 +6,9 @@ namespace MYDE_ExGTWorldWar;
 
 public class PawnJumper_Dash : PawnDasher
 {
-    public bool IF_DoDamageFinish;
+    private bool IF_DoDamageFinish;
 
-    public List<Pawn> potentialTargets;
+    private List<Pawn> potentialTargets;
 
     protected override void Tick()
     {
@@ -36,7 +36,7 @@ public class PawnJumper_Dash : PawnDasher
         potentialTargets = list;
     }
 
-    public void Check_DashAndStop()
+    private void Check_DashAndStop()
     {
         foreach (var potentialTarget in potentialTargets)
         {
@@ -51,7 +51,7 @@ public class PawnJumper_Dash : PawnDasher
         }
     }
 
-    public void DoDamage(Pawn pawn)
+    private void DoDamage(Pawn pawn)
     {
         var damageInfo = new DamageInfo(DamageDefOf.Stab, 40f, 999999f);
         if (pawn.RaceProps.Humanlike)

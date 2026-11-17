@@ -13,7 +13,7 @@ internal class CompProperties_SecondaryVerb : CompProperties
     public readonly string secondaryCommandIcon = "";
 
     public readonly string secondaryWeaponLabel = "";
-    public readonly VerbProperties verbProps = new VerbProperties();
+    public readonly VerbProperties verbProps = new();
 
     public CompProperties_SecondaryVerb()
     {

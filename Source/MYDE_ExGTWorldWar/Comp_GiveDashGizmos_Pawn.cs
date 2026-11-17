@@ -7,14 +7,14 @@ namespace MYDE_ExGTWorldWar;
 
 public class Comp_GiveDashGizmos_Pawn : ThingComp
 {
-    public readonly int ColdDownTickMax = 15000;
+    private readonly int ColdDownTickMax = 15000;
 
-    public readonly float Range = 26f;
-    public int ColdDownTick;
+    private readonly float Range = 26f;
+    private int ColdDownTick;
 
-    public string Icon;
+    private string Icon;
 
-    public string Label;
+    private string Label;
 
     public CompProperties_GiveDashGizmos_Pawn Props => props as CompProperties_GiveDashGizmos_Pawn;
 

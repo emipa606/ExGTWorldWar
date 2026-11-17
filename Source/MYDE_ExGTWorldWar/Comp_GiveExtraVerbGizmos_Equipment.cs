@@ -10,7 +10,7 @@ public class Comp_GiveExtraVerbGizmos_Equipment : ThingComp
 
     public CompProperties_GiveExtraVerbGizmos_Equipment Props => props as CompProperties_GiveExtraVerbGizmos_Equipment;
 
-    public Verb AttackVerb => Pawn.verbTracker.PrimaryVerb;
+    private Verb AttackVerb => Pawn.verbTracker.PrimaryVerb;
 
     public override IEnumerable<Gizmo> CompGetGizmosExtra()
     {

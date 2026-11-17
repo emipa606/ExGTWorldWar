@@ -9,21 +9,21 @@ namespace MYDE_ExGTWorldWar;
 
 public class TheDead : ThingWithComps
 {
-    public readonly List<ThingDef> FilthTypes = [];
+    private readonly List<ThingDef> FilthTypes = [];
 
-    public readonly int FleckTickMax = 20;
+    private readonly int FleckTickMax = 20;
 
-    public readonly List<Thing> SpawnedPawns = [];
+    private readonly List<Thing> SpawnedPawns = [];
     public Pawn CasterPawn;
 
-    public int FleckTick;
-    public int SpawnTick;
+    private int FleckTick;
+    private int SpawnTick;
 
-    public int SpawnTickMax = 1200;
+    private int SpawnTickMax = 1200;
 
-    public Sustainer Sustainer;
+    private Sustainer Sustainer;
 
-    public PawnKindDef PawnToSpawn => def.GetModExtension<TheDead_DefModExtension>().pawnKindToSpawn;
+    private PawnKindDef PawnToSpawn => def.GetModExtension<TheDead_DefModExtension>().pawnKindToSpawn;
 
     public override void SpawnSetup(Map map, bool respawningAfterLoad)
     {
@@ -80,7 +80,7 @@ public class TheDead : ThingWithComps
         Destroy();
     }
 
-    public void DoSomething()
+    private void DoSomething()
     {
         var map = Map;
         var position = Position;

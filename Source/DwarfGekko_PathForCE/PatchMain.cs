@@ -5,7 +5,7 @@ using Verse;
 namespace DwarfGekko_PathForCE;
 
 [StaticConstructorOnStartup]
-public class PatchMain
+public static class PatchMain
 {
     static PatchMain()
     {

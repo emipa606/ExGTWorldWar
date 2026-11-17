@@ -4,8 +4,8 @@ namespace MYDE_ExGTWorldWar;
 
 public class HediffComp_BurntTentacle : HediffComp
 {
-    public readonly int RemoveHediffTickMax = 3600;
-    public int RemoveHediffTick;
+    private readonly int RemoveHediffTickMax = 3600;
+    private int RemoveHediffTick;
 
     public HediffCompProperties_BurntTentacle Props => (HediffCompProperties_BurntTentacle)props;
 
